@@ -89,8 +89,15 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=momo56710&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img align="left" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momo56710&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" alt=momo56710 />
 
-<br/>  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=momo56710&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" alt="momo56710" />
+
+<p><img align="center" width="1000rem" src="https://github-readme-streak-stats.herokuapp.com/?user=momo56710&theme=tokyonight&&bg_color=00000000&hide_border=true" alt="momo56710" /></p>
+
+<hr>
+<!-- <h3 align="center">Contribution Graph</h3> -->
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=momo56710&bg_color=0000&line=7eaffc&point=FFFF&area_color=9c75d7&area=true&color=9c75d7"/>
 
 
