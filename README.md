@@ -2,7 +2,7 @@
   
 
 ### <div align="center">I'm momo, a junior frontend developer 👨‍💻 and a freelance video editor and graphic designer</div>  
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=momo56710&label=Visitors&color=9c75d7&style=flat-square" alt="momo56710" /> </p>
+
 
 <br/>  
 
