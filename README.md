@@ -70,34 +70,11 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/momo56710" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/metidji-mohamed-amine-252975255/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/2003amine" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/momo.devx/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<img align="left" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momo56710&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" alt=momo56710 />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=momo56710&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" alt="momo56710" />
-
-<p><img align="center" width="1000rem" src="https://github-readme-streak-stats.herokuapp.com/?user=momo56710&theme=tokyonight&&bg_color=00000000&hide_border=true" alt="momo56710" /></p>
-
-<hr>
-<!-- <h3 align="center">Contribution Graph</h3> -->
-
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=momo56710&bg_color=0000&line=7eaffc&point=FFFF&area_color=9c75d7&area=true&color=9c75d7"/>
-
 
