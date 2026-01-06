@@ -1,7 +1,7 @@
  
   
 
-### <div align="center">I'm momo, a frontend developer 👨‍💻 and a freelance video editor and graphic designer</div>  
+### <div align="center">Hi, I’m Momo — a web developer 👨‍💻 and content creator / coach.</div>  
 
 
 <br/>  
